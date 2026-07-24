@@ -1,0 +1,2 @@
+# Bank-Customer-Churn-Analytics-Revenue-Forecasting-Profitability-Analysis
+This project presents a comprehensive end-to-end Bank Customer Churn Analytics system developed on a publicly available banking dataset sourced from Kaggle. The system encompasses three major analytical modules: Customer Churn Prediction using Machine Learning, Revenue Forecasting under multiple churn scenarios, and Customer Profitability Analysis.
